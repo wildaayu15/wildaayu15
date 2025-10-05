@@ -30,3 +30,6 @@
 ☕ Coffee + Code = My perfect combo.  
 🎶 Taylor Swift on repeat while debugging.  
 💙 Calm, creative, and constantly improving.
+
+🌙 My GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wildaayu15&show_icons=true&theme=tokyonight&title_color=F9E79F&text_color=C9D1D9&icon_color=F9E79F&hide_border=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildaayu15&layout=compact&theme=tokyonight&title_color=F9E79F&text_color=C9D1D9&hide_border=true" height="165"/> </p>
