@@ -1,12 +1,13 @@
 <!-- 🌸 Aurora Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=6AA6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Wilda...;A+Calm+Coder+☕;Laravel+%7C+React+%7C+Tailwind+Enthusiast;Lover+of+Cozy+Vibes+and+Taylor+Swift+🎶" alt="Typing SVG" />
-</p>
-
-
-<!-- ✨ Animated Typing -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=2500&pause=1000&color=F5E8C7&center=true&vCenter=true&width=500&lines=Hi,+I'm+Wilda...;Laravel+%2B+React+%2B+Tailwind+Developer;Fueled+by+coffee+%26+Taylor+Swift+vibes+☕🎶" alt="Typing SVG" />
+<h1 align="center" style="
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(90deg, #FDFD96, #A2C2E6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 38px;
+  font-weight: 700;
+  margin-bottom: 10px;">
+  Hi, I'm Wilda 💫
 </h1>
 
 <p align="center">
