@@ -1,7 +1,8 @@
 <!-- 🌸 Aurora Header -->
 <p align="center">
-  <img src="https://i.ibb.co/P6FwzRz/aurora-gradient.gif" width="100%" alt="aurora background"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=6AA6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Wilda...;A+Calm+Coder+☕;Laravel+%7C+React+%7C+Tailwind+Enthusiast;Lover+of+Cozy+Vibes+and+Taylor+Swift+🎶" alt="Typing SVG" />
 </p>
+
 
 <!-- ✨ Animated Typing -->
 <h1 align="center">
