@@ -1,82 +1,49 @@
-<!-- 🌸 Aurora Header -->
-<h1 align="center" style="
-  font-family: 'Poppins', sans-serif;
-  background: linear-gradient(90deg, #FDFD96, #A2C2E6);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-size: 38px;
-  font-weight: 700;
-  margin-bottom: 10px;">
-  Hi, I'm Wilda 💫
-</h1>
+<h1 align="center">👋 Hi, I'm Wilda!</h1>
 
 <p align="center">
-  <samp>☕ calm coder | 🌸 clean UI lover | 💙 cozy vibes</samp>
+  <b>ESTJ-T • The Executive • Tech-Leader in Progress 💻</b><br/>
+  Building structure in a world full of chaos ⚡
 </p>
 
----
+💼 About Me  
+Hi! I'm **Wilda**, an RPL (Software Engineering) student passionate about building efficient, clean, and well-structured digital systems.  
+I love bringing ideas into real projects — from Laravel backend logic to React & Tailwind UI perfection ✨  
 
-### 🪄 About Me  
-🎓 Student at **SMKN 2 Subang**  
-💻 Currently learning **Laravel + Inertia + React + Tailwind CSS**  
-🚀 Exploring the magic of clean, modern UI and seamless backend logic.  
-🌷 Always coding with **coffee in hand** and **Taylor Swift** on repeat 🎶  
+I believe that good code is not just about functionality, but **clarity, structure, and impact**.  
 
----
+🧠 MBTI Personality: ESTJ-T
+> **“You build order where others see chaos.”**
 
-### 💼 Projects  
-- 🧩 **Role & Permission Management** – Laravel + Spatie  
-- 📚 **CRUD Web App** – Laravel + React + Tailwind  
+| Trait | Description |
+|:------|:-------------|
+| **E — Extraverted** | Energized by teamwork & collaboration |
+| **S — Sensing** | Focused on real, practical results |
+| **T — Thinking** | Logical, structured, and goal-oriented |
+| **J — Judging** | Prefers clear plans & timelines |
+| **T — Turbulent** | Perfectionist, reflective, always striving to improve |
 
----
+💬 *“Progress, not perfection — every step counts.”*
 
-### 🌸 Fun Facts  
-- My code runs smoother when **Taylor Swift** plays 🎧  
-- Debugging feels easier with **warm coffee** ☕  
-- I love **clean UI** and **cozy design aesthetics** 💙  
+💻 Tech Stack
 
----
+| Area | Tools & Frameworks |
+|------|--------------------|
+| **Frontend** | ReactJS, InertiaJS, Tailwind CSS |
+| **Backend** | Laravel, PHP, MySQL |
+| **Version Control** | Git, GitHub |
+| **Other Tools** | VS Code, Postman, Figma |
 
+🌸 Motivation
+> *"You don’t need to prove your worth — you already show it through your work."*  
+> *"You lead with strength, but grow with kindness."*
 
-### ✨ Custom Badges  
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coffee%20Lover-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swiftie-FFB6C1?style=for-the-badge&logo=spotify&logoColor=black" />
-</p>
+✨ Keep building, keep learning, and trust your process.  
 
----
-
-### 🌙 Quote of the Day  
-> “Soft mornings, strong coffee, calm code — my perfect trio.” 🌸  
-
----
-
-### 🌈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wildaayu15&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildaayu15&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-### ☕ Styling Notes  
-💛 **Soft Yellow** → kehangatan & vibes kopi  
-💙 **Soft Blue/Navy** → ketenangan & fokus coding  
-✨ **Aurora gradient** → efek lembut kayak langit malam + musik Taylor Swift  
-
----
+🌐 Connect With Me  
+📧 **Email:** [coming soon]  
+💬 **Portfolio:** _under development_  
 
 <p align="center">
-  🌸 <b>Connect with Me</b> 🌸 <br/>
-  <a href="mailto:wildaayu15@gmail.com">📧 Email</a> |
-  <a href="https://www.instagram.com/wildawns?igsh=MW83d2Y0cmFhYWtveA==">@wildawns</a>
-</p>
-
----
-
-<p align="center">
-  <samp>“Calm coder powered by coffee & melodies.” ☕🎶</samp>
+  <i>“Discipline and clarity turn dreams into systems.”</i><br/>
+  <b>– Wilda ⚡</b>
 </p>
