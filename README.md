@@ -40,7 +40,7 @@ I believe that good code is not just about functionality, but **clarity, structu
 ✨ Keep building, keep learning, and trust your process.  
 
 🌐 Connect With Me  
-📧 **Email:** [coming soon]  
+📧 **Email:** [wildaayu158@gmail.com]  
 💬 **Portfolio:** _under development_  
 
 <p align="center">
